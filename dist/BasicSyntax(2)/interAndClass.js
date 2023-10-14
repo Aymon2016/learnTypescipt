@@ -1,6 +1,6 @@
 "use strict";
 // create interface 
-let Aymon = {
+let Aymons = {
     firstname: 'aymon',
     lastname: 'ahamed',
     age: 24

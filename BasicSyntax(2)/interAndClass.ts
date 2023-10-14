@@ -2,14 +2,14 @@
 
 // create interface 
 
-interface Person {
+interface Person7 {
     firstname : string;
     lastname : string;
     age : number;
 
 }
 
-let Aymon: Person = {
+let Aymons: Person7 = {
     firstname:'aymon',
     lastname : 'ahamed',
     age : 24 
